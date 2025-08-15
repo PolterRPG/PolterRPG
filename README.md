@@ -1,11 +1,21 @@
-- 👋 Hi, I’m @PolterRPG
-- 👀 I’m interested in Cybersecurity & Programming knowledge
-- 🌱 I’m currently learning python & JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me poltergithub@gmail.com
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I also enjoy Profesional Gaming & Working out as hobbys
 
+💻 Aspiring Cybersecurity Specialist | 🛡️ Ethical Hacking Enthusiast
+
+🕵️‍♂️ Exploring the depths of cybersecurity — from penetration testing to digital forensics
+
+🔍 Hands-on experience in ethical hacking and security testing
+
+📚 Currently learning & experimenting to find my niche in the security world
+
+💡 Passionate about breaking things to make them safer
+
+📫 How to reach me poltergithub@gmail.com
+
+🔐 Advocating for privacy, security, and responsible hacking
+
+🌱 Always curious, always improving
+
+"In security, the best offense is a well-prepared defense."
 <!---
 PolterRPG/PolterRPG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
